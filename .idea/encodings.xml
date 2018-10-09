@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/JAVAEE" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Maven" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maven/Maven01" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Maven/MavenTest01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maven/MavenTest02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maven/MavenTest02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maven/MavenTest02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maven01/Maven02" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
