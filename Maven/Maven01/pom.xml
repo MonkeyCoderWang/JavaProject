@@ -3,16 +3,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>maven</artifactId>
+        <artifactId>Maven</artifactId>
         <groupId>com.rabbit</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>MavenTest01</artifactId>
+    <artifactId>Maven01</artifactId>
     <packaging>war</packaging>
 
-    <name>MavenTest01 Maven Webapp</name>
+    <name>Maven01 Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
@@ -32,7 +32,7 @@
     </dependencies>
 
     <build>
-        <finalName>MavenTest01</finalName>
+        <finalName>Maven01</finalName>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>
